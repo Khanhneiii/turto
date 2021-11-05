@@ -10,7 +10,7 @@ int main()
 	if(k<(a+b)) {printf ("No");} 
 	else if (k==(a+b)) {printf ("Yes");}
 	else if (k>a+b) {x=(k-(a+b)); if (x%2==0) {printf ("Yes");} else {printf("No");};}
-	printf("10;")
+	printf("10");
 	return 0;
 }
 
