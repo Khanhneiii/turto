@@ -4,7 +4,7 @@
 int main()
 {
 	int a,b,k,x,y;
-	scanf ("%d%d%d",&x,&y,&k);
+	scanf ("%d%d%d",&x,&y);
 	a=abs(x);
 	b=abs(y);
 	if(k<(a+b)) {printf ("No");} 
